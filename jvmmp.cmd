@@ -2,9 +2,11 @@
 @REM ONLY CHANGE THIS CODE IF YOU KNOW WHAT IS DOING
 echo Verifying file existence...
 
-@REM ---- Configuring JavaVM options (like to use memory allocated) ----
+@REM ---- memory allocation ----
 set "JVMOpts=-Xmx1024M -Xms512M"
-set file=nbsjava.jar
+
+@REM ---- File location: default version 1.0 nbsjava1
+set file=nbsjava1.jar
 
 if exist %file% (
     echo File exists. Checking file size...
