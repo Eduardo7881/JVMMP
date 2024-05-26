@@ -1,6 +1,6 @@
 # JVMMP - Java Virtual Machine Midi Player
 
-## Version: 0.29 beta
+## Version: 1.0 release (finally!)
 
 **!WARNING!** Don't use Java 7 or below versions. The code will only work in Java 8 (accurate) and up (not tested yet).
 
@@ -14,7 +14,7 @@ This program was inspired by Minecraft Note Block Studio and aims to create a Ja
 
 ## About JVMMP
 
-JVMMP is currently in beta, and some bugs may be encountered. Your support by giving a star to this repository is highly appreciated!
+JVMMP is currently in the latest release. Your support by giving a star to this repository is highly appreciated!
 
 ## Used Libraries
 
@@ -37,7 +37,7 @@ To use JVMMP, simply run the provided Java JAR file (nbsjava.jar) with a compati
 
 ## Contributing
 
-Contributions to JVMMP are welcome! Feel free to fork this repository and decompile the source, make changes in the source. BUT, Leave the credits!
+Feel free to fork this repository and decompile the source, make changes in the source. BUT, Leave the credits!
 
 ## License
 
