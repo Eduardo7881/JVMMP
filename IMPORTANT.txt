@@ -1,0 +1,19 @@
+JVMMP version 0.29 beta
+
+!WARNING! Don't use a Java 7 or below versions. the code will only work in Java 8 (accurate) and up (dont tested yet)
+
+This program was made by EduardoPlayss121!
+If you see the source code and find "com.davvefan.nbsjava" it's me, because i am fan of the Minecraft Note Block Studio made by Davve! :)
+
+!WARNING! Only reading midi files are supported from now, the midi maker (add notes, remove notes) are manual and boring and it doesn't work. i forgot to remove them.
+
+!WARNING! Don't Re-upload or make changes on my program without leaving the credits! else You can be banned from GitHub or someting... O_o
+
+That program inspired to make my Java Virtual Machine Midi Player (JVMMP)
+This is currenly in beta and some bugs can be found.
+
+Support me giving a star on this repository!
+
+- USED LIBRARIES (you don't needed to install these libraries!) -
+JavaZoom (JLayer) (For MP3 Player)
+(The rest is implemented already in Java default packages)
