@@ -1,4 +1,4 @@
-JVMMP version 0.29 beta
+JVMMP version 1 release
 
 !WARNING! Don't use a Java 7 or below versions. the code will only work in Java 8 (accurate) and up (dont tested yet)
 
@@ -17,3 +17,5 @@ Support me giving a star on this repository!
 - USED LIBRARIES (you don't needed to install these libraries!) -
 JavaZoom (JLayer) (For MP3 Player)
 (The rest is implemented already in Java default packages)
+
+If you want to go back in the beta, change the nbsjava1.jar from your startup file to nbsjava.jar
