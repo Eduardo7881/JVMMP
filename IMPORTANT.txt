@@ -1,11 +1,11 @@
 JVMMP version 1 release
 
-!WARNING! Don't use a Java 7 or below versions. the code will only work in Java 8 (accurate) and up (dont tested yet)
+!WARNING! Don't use a Java 7 or below versions. the code will only work in Java 8 (accurate) and up (don't tested yet)
 
 This program was made by EduardoPlayss121!
 If you see the source code and find "com.davvefan.nbsjava" it's me, because i am fan of the Minecraft Note Block Studio made by Davve! :)
 
-!WARNING! Only reading midi files are supported from now, the midi maker (add notes, remove notes) are manual and boring and it doesn't work. i forgot to remove them.
+!WARNING! Only reading midi files are supported from now, the midi maker (add notes, remove notes) are manual and boring and it doesn't work for now.
 
 !WARNING! Don't Re-upload or make changes on my program without leaving the credits! else You can be banned from GitHub or someting... O_o
 
