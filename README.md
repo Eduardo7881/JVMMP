@@ -37,7 +37,7 @@ To use JVMMP, simply run the provided Java JAR file (nbsjava.jar) with a compati
 
 ## Contributing
 
-Contributions to JVMMP are welcome! Feel free to fork this repository, make changes, and submit pull requests. BUT, Leave the credits!
+Contributions to JVMMP are welcome! Feel free to fork this repository and decompile the source, make changes in the source. BUT, Leave the credits!
 
 ## License
 
