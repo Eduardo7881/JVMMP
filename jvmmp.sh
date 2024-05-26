@@ -1,8 +1,10 @@
 #!/bin/bash
 echo "Verifying file existence..."
 
-# ---- Configuring JavaVM options (like to use memory allocated) ----
+# ---- memory allocation ----
 JVMOpts="-Xmx1024M -Xms512M"
+
+# ----  ----
 file="nbsjava.jar"
 
 if [ -f "$file" ]; then
