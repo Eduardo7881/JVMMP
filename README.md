@@ -27,9 +27,17 @@ You don't need to install these libraries separately as they are already impleme
 
 To use JVMMP, simply run the provided Java JAR file (nbsjava.jar) with a compatible version of Java installed on your system (Java 8 or higher).
 
+- For MacOS/Linux users:
+1. run "chmod +x jvmmp.sh" (for first-time only)
+2. run "./jvmmp.sh" (with sudo or without sudo if you want)
+3. enjoy!
+- For Windows Users
+1. start the "jvmmp.cmd" file.
+2. enjoy!
+
 ## Contributing
 
-Contributions to JVMMP are welcome! Feel free to fork this repository, make changes, and submit pull requests.
+Contributions to JVMMP are welcome! Feel free to fork this repository, make changes, and submit pull requests. BUT, Leave the credits!
 
 ## License
 
