@@ -4,8 +4,8 @@ echo "Verifying file existence..."
 # ---- memory allocation ----
 JVMOpts="-Xmx1024M -Xms512M"
 
-# ----  ----
-file="nbsjava.jar"
+# ---- File location: default version 1.0 nbsjava1 ----
+file="nbsjava1.jar"
 
 if [ -f "$file" ]; then
     echo "File exists. Checking Java installation..."
