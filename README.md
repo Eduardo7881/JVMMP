@@ -1,6 +1,6 @@
 # JVMMP - Java Virtual Machine Midi Player
+**Logo made By me**
 <img src="icon.png" alt="icon" width="350">
-**Logo Made by Me (i make really bad arts.)**
 
 ## Version: 1.0 release (finally!)
 
